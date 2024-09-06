@@ -1,0 +1,3 @@
+C:/Users/nojus/Documents/Programavimas/Strukturinis/Bandymas/cmake-build-debug/CMakeFiles/Bandymas.dir
+C:/Users/nojus/Documents/Programavimas/Strukturinis/Bandymas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nojus/Documents/Programavimas/Strukturinis/Bandymas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
