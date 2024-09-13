@@ -86,4 +86,16 @@ int main() {
     //isvedami 2 skaiciai po kablelio
     cout << fixed << setprecision(2);
     cout << "bendras vidurkis: " << vidurkis << endl;
+
+    cout<<"--------6 uzuotis-------"<<endl;
+    //i - dvizenklis, j - desimtys, k - vienetai, l - suma
+    int i, j, k, l;
+    cout << "Iveskite dvizenkli skaciu: " <<endl;
+    cin >> i;
+    //reikia atskirti vienetus nuo desimciu
+    j = i / 10; //desimtys
+    k = i % 10; //vienetai
+    l = j + k; //desimties ir vieneto suma
+    cout << "Desimciu ir vienetu suma = "<< l << endl;
+return 0;
 }
